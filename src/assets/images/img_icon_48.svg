@@ -1,0 +1,7 @@
+<svg width="80" height="80" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="80" height="80" rx="40" fill="#F6F6F6"/>
+<rect x="27" y="29" width="17.7273" height="15.8889" stroke="#141A50" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M44.7275 35.1113H49.4548L53.0003 38.778V44.8891H44.7275V35.1113V35.1113Z" stroke="#141A50" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="32.3178" cy="47.9442" rx="2.95455" ry="3.05556" stroke="#141A50" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<ellipse cx="47.6821" cy="47.9442" rx="2.95455" ry="3.05556" stroke="#141A50" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,12 @@
+<svg width="266" height="266" viewBox="0 0 266 266" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M133 265C205.902 265 265 205.902 265 133C265 60.0984 205.902 1 133 1C60.0984 1 1 60.0984 1 133" stroke="white" stroke-width="2"/>
+<path d="M237.32 160.954C252.758 103.34 218.567 44.1193 160.952 28.6816C103.338 13.2439 44.1177 47.4348 28.68 105.049C13.2423 162.663 47.4332 221.884 105.048 237.322" stroke="white" stroke-width="2"/>
+<path d="M112.553 209.309C154.697 220.601 198.016 195.591 209.308 153.448C220.601 111.304 195.591 67.9852 153.447 56.6928C111.303 45.4004 67.9842 70.4104 56.6918 112.554" stroke="white" stroke-width="2"/>
+<rect x="113" y="108" width="50" height="50" fill="#F25146"/>
+<mask id="mask0_16_18744" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="85" y="85" width="96" height="96">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M181 133C181 106.49 159.51 85 133 85C106.49 85 85 106.49 85 133C85 159.51 106.49 181 133 181C159.51 181 181 159.51 181 133ZM126.018 150.455V116.418L147.836 133.103L126.018 150.455Z" fill="white"/>
+</mask>
+<g mask="url(#mask0_16_18744)">
+<rect x="85" y="85" width="96" height="96" fill="white"/>
+</g>
+</svg>
